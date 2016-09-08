@@ -1,0 +1,16 @@
+{
+  "name": "sendgrid_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^1.5.0",
+    "sendgrid": "^3.0.11",
+    "handlebars": "^3.0.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "keys" : {
+    "sengrid" : "Key"
+  },
+  "s3" : {
+    "bucket" : "inventae.com.br",
+    "folder" : "email/templates/",
+    "master" : "master_v1.html",
+    "template" : "reset_password.html"
+  },
+  "from": "teste@inventae.com.br",
+  "to": "rafael@inventae.com.br",
+  "subject": "Teste",
+  "params": {
+    "redirect_url": "http://www.globo.com",
+    "support_email": "suporte@inventae.com.br",
+    "user_email" : "rafael@inventae.com.br"
+  }
+}
